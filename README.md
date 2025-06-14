@@ -1,9 +1,3 @@
-### 🧪 一键构建流程
-# 编译 Rust 为 WASM 模块
-- cd rust-core
-- wasm-pack build --target web --release --out-dir ../frontend/src/wasm
-
-# 启动前端项目
 - # 项目名称
 
 ## 简介
@@ -30,7 +24,15 @@ flowchart TB
     end
 ```
 
+### 构建流程
+# 编译 Rust 为 WASM 模块
+- cd rust-core
+- wasm-pack build --target web --release --out-dir ../frontend/src/wasm
+
+# 启动前端项目
+
 ### 项目启动命令
+- cd frontend   
 - npm install
 - npm run dev
 
