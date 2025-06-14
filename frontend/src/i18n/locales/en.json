@@ -1,0 +1,49 @@
+{
+    "title": "AI Image Auditor",
+    "analyze": "Analyze",
+    "download": "Download Report",
+    "exif": "EXIF Info",
+    "yes": "Yes",
+    "no": "No",
+    "texture": "Texture Complexity",
+    "fft": "Frequency Energy", 
+    "confidence": "AI Confidence",
+    "uploadImage": "Upload Image",
+    "uploading": "Uploading...",
+    "clearAll": "Clear All",
+    "uploadLimit": "Upload Limit",
+    "delete": "Delete",
+    "analysisResult": "Analysis Result",
+    "report": {
+        "title": "Image Analysis Report",
+        "fileName": "File Name",
+        "fileSize": "File Size", 
+        "date": "Generated Date",
+        "analysisResults": "Analysis Results",
+        "textureScore": "Texture Complexity",
+        "energyScore": "Frequency Energy",
+        "confidence": "AI Confidence",
+        "exifInfo": "EXIF Information",
+        "page": "Page",
+        "of": "of"
+    },
+    "chart": {
+        "frequencyEnergy": "Frequency Energy",
+        "energyLevel": "Energy Level",
+        "analysisResult": "Analysis Result",
+        "fftTitle": "Frequency Analysis",
+        "fftAmplitude": "Amplitude"
+    },
+    "error": {
+        "reportGenerationFailed": "Failed to generate report, please try again",
+        "imageNotFound": "Image data not found",
+        "uploadFailed": "Upload failed, please try again",
+        "initFailed": "Initialization failed",
+        "loadStoredImagesFailed": "Failed to load stored images", 
+        "saveStorageFailed": "Failed to save to storage",
+        "analysisFailed": "Analysis failed",
+        "removeImageFailed": "Failed to remove image",
+        "removeAllImagesFailed": "Failed to clear all images",
+        "invalidImageFormat": "Invalid image format"
+    }
+}

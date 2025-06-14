@@ -1,0 +1,49 @@
+{
+  "title": "AI 图像鉴定工具",
+  "analyze": "分析图像",
+  "download": "下载报告",
+  "exif": "EXIF信息", 
+  "yes": "有",
+  "no": "无",
+  "texture": "纹理复杂度",
+  "fft": "频率能量",
+  "confidence": "AI 置信度",
+  "uploadImage": "上传图片",
+  "uploading": "上传中...",
+  "clearAll": "全部删除",
+  "uploadLimit": "上传限制",
+  "delete": "删除",
+  "analysisResult": "分析结果",
+  "report": {
+    "title": "图像分析报告",
+    "fileName": "文件名",
+    "fileSize": "文件大小", 
+    "date": "生成日期",
+    "analysisResults": "分析结果",
+    "textureScore": "纹理复杂度",
+    "energyScore": "频率能量",
+    "confidence": "AI 置信度",
+    "exifInfo": "EXIF 信息",
+    "page": "第",
+    "of": "页，共"
+  },
+  "error": {
+    "reportGenerationFailed": "报告生成失败，请重试",
+    "imageNotFound": "找不到图片数据",
+    "uploadFailed": "上传失败，请重试",
+    "initFailed": "初始化失败",
+    "loadStoredImagesFailed": "加载已存储图片失败", 
+    "saveStorageFailed": "保存到存储失败",
+    "analysisFailed": "分析失败",
+    "removeImageFailed": "移除图片失败",
+    "removeAllImagesFailed": "清除所有图片失败",
+    "invalidImageFormat": "无效的图片格式"
+  },
+  "chart": {
+    "frequencyEnergy": "频率能量",
+    "energyLevel": "能量水平",
+    "analysisResult": "分析结果",
+    "fftTitle": "频率分析",
+    "fftAmplitude": "幅度"
+  }
+}
