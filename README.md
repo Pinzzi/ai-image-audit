@@ -54,3 +54,7 @@ flowchart TB
 
 - ### 系统类图
 ![系统类图](docs/img/类图.png)
+
+
+- ### 页面
+![系统类图](docs/img/前端页面.png)
